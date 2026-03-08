@@ -1,4 +1,4 @@
-# Hi, I'm Midhun 👋
+# Hi, I'm Midhun 
 
 Full Stack Developer transitioning from a commerce background into technology.
 

@@ -57,19 +57,6 @@
 
 <p align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Midhun-git-hub&color=blueviolet" alt="Profile Views" />
-
-<!-- Followers -->
-<img src="https://img.shields.io/github/followers/Midhun-git-hub?label=Followers&style=for-the-badge&color=2bbc8a" alt="Followers" />
-
-<!-- GitHub Stars -->
-<img src="https://img.shields.io/github/stars/Midhun-git-hub?style=for-the-badge&color=ff69b4" alt="GitHub Stars" />
-
-</p>
-
-<p align="center">
-
 <a href="mailto:m20787549@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -91,6 +78,11 @@
 </a>
 
 </p>
+
+---
+
+## 👀 Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=Midhun-git-hub)
 
 ---
 

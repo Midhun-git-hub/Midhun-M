@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Midhun
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+%7C+Django+%7C+Flask;Building+Cool+Things+With+Code;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;Python+%7C+Django+%7C+React;Building+Cool+Things+With+Code;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 * 💻 Backend focused developer
-* 🐍 Python | Django | Flask
+* 🐍 Python | Django | React
 * 🧠 Interested in **Fintech & AI tools**
 * ⚡ Building projects to learn real-world development
 
@@ -19,7 +19,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,bootstrap,tailwindcss,git,github,vscode,mysql,sqlite,postgresql" />
 
 </p>
 

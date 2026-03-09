@@ -80,10 +80,10 @@ Features:
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Midhun-git-hub/Midhun-git-hub/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Midhun-git-hub/Midhun-M/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

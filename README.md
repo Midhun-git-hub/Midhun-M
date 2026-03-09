@@ -2,24 +2,28 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=3DDC97&center=true&vCenter=true&width=700&lines=Hi+I'm+Midhun;Full+Stack+Developer;Python+Django+React;Building+Real+World+Web+Apps" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Midhun-git-hub&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 # Hi, I'm Midhun 👋
 
 Full Stack Developer transitioning from a **commerce background into technology**, combining business understanding with software development.
 
-I enjoy building **real-world web applications**, focusing on strong backend systems with **Python & Django**, while creating responsive interfaces with **React and modern frontend tools**.
+I build web applications using **Python, Django, and React**, focusing on backend systems, **REST APIs**, and modern frontend interfaces.
 
 My work usually revolves around:
 
+- Full-stack web applications  
 - REST API development  
-- full-stack web applications  
 - automation tools  
-- systems that solve real business problems  
+- systems that solve real-world problems  
 
 ---
 
-## ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,react,tailwind,postgres,sqlite,mysql,git,github&perline=7" />
@@ -27,13 +31,12 @@ My work usually revolves around:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### Automated Email Content Platform
-
 Full-stack SaaS style platform built with **React + Django REST + Celery**.
 
-Features:
+Key features:
 
 - JWT authentication  
 - background task processing using Celery  
@@ -43,7 +46,6 @@ Features:
 ---
 
 ### E-Commerce Web Application
-
 Full-stack **Django web application** implementing a complete shopping workflow.
 
 Features:
@@ -56,44 +58,45 @@ Features:
 ---
 
 ### Trailer Explorer
-
 Modern **React + TMDB API** movie browsing application.
 
 Features:
 
 - dynamic movie search  
-- API driven content  
-- responsive UI built with React  
+- API-driven content  
+- responsive UI with React  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Midhun-git-hub&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Midhun-git-hub&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-git-hub&layout=compact&theme=tokyonight" />
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-git-hub&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 Contribution Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhun-git-hub&theme=tokyo-night"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Midhun-git-hub&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Portfolio
+# 🌐 Portfolio
 
-Explore my work here:
+Explore my full work here:
 
 https://react-portfolio-swart-eight.vercel.app
 
 ---
 
-## 🤝 Connect
+# 🤝 Connect
 
 LinkedIn  
 https://linkedin.com/in/midhun-m-683126298

@@ -17,10 +17,32 @@
 
 ## 🛠 Tech Stack
 
+### ⚙️ Backend
+
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,jquery,bootstrap,tailwindcss,git,github,vscode,mysql,sqlite,postgresql" />
+### 🔗 API & Backend Tools
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---

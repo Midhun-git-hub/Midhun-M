@@ -18,7 +18,8 @@
 ## 🛠 Tech Stack 
 
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwindcss,react,python,django,djangorestframework,git,github,vscode,mysql,sqlite,postgresql" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwindcss,react,python,django,git,github,vscode,mysql,sqlite,postgresql" />
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 ---

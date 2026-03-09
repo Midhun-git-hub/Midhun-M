@@ -6,34 +6,88 @@
 
 # Hi, I'm Midhun 👋
 
-Full Stack Developer transitioning from a commerce background into technology.
+Full Stack Developer transitioning from a **commerce background into technology**, combining business understanding with software development.
 
-I build web applications using **Python, Django, and React**, focusing on backend systems, **REST APIs**, and modern frontend interfaces.
+I enjoy building **real-world web applications**, focusing on strong backend systems with **Python & Django**, while creating responsive interfaces with **React and modern frontend tools**.
+
+My work usually revolves around:
+
+- REST API development  
+- full-stack web applications  
+- automation tools  
+- systems that solve real business problems  
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,react,tailwind,mysql,postgres,sqlite,git,github&perline=6" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,react,tailwind,postgres,sqlite,mysql,git,github&perline=7" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-**Automated Email Content Platform**
-React + Django REST + Celery platform that automates email generation and delivery with background task processing.
+### Automated Email Content Platform
 
-**E-Commerce Web Application**
-Full-stack Django application with authentication, product catalog, shopping cart, and order workflow.
+Full-stack SaaS style platform built with **React + Django REST + Celery**.
 
-**Trailer Explorer**
-React + TMDB API movie browsing application with dynamic search and API-driven UI.
+Features:
+
+- JWT authentication  
+- background task processing using Celery  
+- automated email generation and delivery  
+- REST API backend powering a React frontend  
+
+---
+
+### E-Commerce Web Application
+
+Full-stack **Django web application** implementing a complete shopping workflow.
+
+Features:
+
+- user authentication  
+- product catalog and management  
+- shopping cart functionality  
+- order processing workflow  
+
+---
+
+### Trailer Explorer
+
+Modern **React + TMDB API** movie browsing application.
+
+Features:
+
+- dynamic movie search  
+- API driven content  
+- responsive UI built with React  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Midhun-git-hub&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-git-hub&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhun-git-hub&theme=tokyo-night"/>
 
 ---
 
 ## 🌐 Portfolio
+
+Explore my work here:
 
 https://react-portfolio-swart-eight.vercel.app
 
@@ -41,5 +95,5 @@ https://react-portfolio-swart-eight.vercel.app
 
 ## 🤝 Connect
 
-LinkedIn
+LinkedIn  
 https://linkedin.com/in/midhun-m-683126298

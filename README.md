@@ -54,44 +54,20 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<!-- Email -->
-<a href="mailto:m20787549@gmail.com" target="_blank" style="text-decoration:none;">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/midhun-m-683126298" target="_blank" style="text-decoration:none;">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/_midhun_codes_/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- Portfolio -->
-<a href="https://react-portfolio-swart-eight.vercel.app/" target="_blank" style="text-decoration:none;">
-  <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- GitHub -->
-<a href="https://github.com/Midhun-git-hub" target="_blank" style="text-decoration:none;">
-  <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- Discord -->
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" style="text-decoration:none;">
-  <img src="https://img.icons8.com/fluency/48/000000/discord.png" alt="Discord"/>
-</a>
-
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/midhun-m-683126298" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="77" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/770568742304219136" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="77" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/_midhun_codes_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="77" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://react-portfolio-swart-eight.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="77" height="40" alt="patreon logo"  />
+  </a>
+</div>
 
 ---
 

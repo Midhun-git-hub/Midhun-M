@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-* 💻 Backend focused developer
-* 🐍 Python | Django | React
-* 🧠 Interested in **Fintech & AI tools**
-* ⚡ Building projects to learn real-world development
+* 💻 Python Full Stack Developer
+* ⚙️ Building full-stack web applications with Django and modern frontend tools
+* 🧩 Strong focus on backend logic, APIs, and databases
+* 🚀 Always learning and improving through real-world projects
 
 ---
 
@@ -19,18 +19,16 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,bootstrap,tailwindcss,git,github,vscode,mysql,sqlite,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,jquery,bootstrap,tailwindcss,git,github,vscode,mysql,sqlite,postgresql" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Midhun-git-hub" height="165"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhun-git-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -60,8 +58,24 @@
 
 <p align="center">
 
+<a href="mailto:m20787549@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/midhun-m-683126298">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_midhun_codes_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://react-portfolio-swart-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/Midhun-git-hub">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>

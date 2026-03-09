@@ -15,7 +15,7 @@ I build web applications using **Python, Django, and React**, focusing on backen
 ## ⚙️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,react,tailwind,postgres,git,github&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,python,django,react,tailwind,mysql,postgres,git,github&perline=6" />
 </p>
 
 ---

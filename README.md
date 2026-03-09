@@ -80,10 +80,10 @@ Features:
 
 ---
 
-# 🔥 Contribution Streak
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Midhun-git-hub&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Midhun-git-hub/Midhun-git-hub/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

@@ -68,7 +68,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://react-portfolio-swart-eight.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/website.png" alt="Portfolio"/>
+    <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Midhun-git-hub" target="_blank">
